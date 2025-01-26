@@ -11,6 +11,7 @@ import Skills from './components/Skills'; // Import Skills component
 import Certifications from './components/Certifications'; // Import Certifications component
 import Achievements from './components/Achievements'; // Import Achievements component
 
+
 function App() {
   return (
     <div>
